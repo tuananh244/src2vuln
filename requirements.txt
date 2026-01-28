@@ -1,0 +1,11 @@
+pyyaml
+requests
+docker==6.1.3
+aiohttp
+duckduckgo-search
+langchain-community
+langchain-openai
+faiss-cpu
+torch>=2.2.0
+sentence-transformers>=3.0.0
+tenacity

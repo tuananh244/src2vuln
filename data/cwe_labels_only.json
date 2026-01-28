@@ -1,0 +1,3774 @@
+[
+    {
+        "id": "5",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "6",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "7",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "8",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "9",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "11",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "12",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "13",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "14",
+        "label": "Insecure Compiler Optimization"
+    },
+    {
+        "id": "15",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "20",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "22",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "23",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "24",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "25",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "26",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "27",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "28",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "29",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "30",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "31",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "32",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "33",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "34",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "35",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "36",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "37",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "38",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "39",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "40",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "41",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "42",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "43",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "44",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "45",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "46",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "47",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "48",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "49",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "50",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "51",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "52",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "53",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "54",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "55",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "56",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "57",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "58",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "59",
+        "label": "Link Following"
+    },
+    {
+        "id": "61",
+        "label": "UNIX symbolic link following"
+    },
+    {
+        "id": "62",
+        "label": "UNIX hard link"
+    },
+    {
+        "id": "64",
+        "label": "Windows Shortcut Following (.LNK)"
+    },
+    {
+        "id": "65",
+        "label": "Windows hard link"
+    },
+    {
+        "id": "66",
+        "label": "Virtual Files"
+    },
+    {
+        "id": "67",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "69",
+        "label": "Windows"
+    },
+    {
+        "id": "72",
+        "label": "Other"
+    },
+    {
+        "id": "73",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "74",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "75",
+        "label": "Special Element Injection"
+    },
+    {
+        "id": "76",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "77",
+        "label": "Injection"
+    },
+    {
+        "id": "78",
+        "label": "Injection"
+    },
+    {
+        "id": "79",
+        "label": "XSS (Cross-Site Scripting)"
+    },
+    {
+        "id": "80",
+        "label": "XSS (Cross-Site Scripting)"
+    },
+    {
+        "id": "81",
+        "label": "XSS (Cross-Site Scripting)"
+    },
+    {
+        "id": "82",
+        "label": "XSS (Cross-Site Scripting)"
+    },
+    {
+        "id": "83",
+        "label": "XSS (Cross-Site Scripting)"
+    },
+    {
+        "id": "84",
+        "label": "XSS (Cross-Site Scripting)"
+    },
+    {
+        "id": "85",
+        "label": "XSS (Cross-Site Scripting)"
+    },
+    {
+        "id": "86",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "87",
+        "label": "XSS (Cross-Site Scripting)"
+    },
+    {
+        "id": "88",
+        "label": "Injection"
+    },
+    {
+        "id": "89",
+        "label": "Injection"
+    },
+    {
+        "id": "90",
+        "label": "Injection"
+    },
+    {
+        "id": "91",
+        "label": "XML injection (aka Blind Xpath injection)"
+    },
+    {
+        "id": "93",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "94",
+        "label": "Code Evaluation and Injection"
+    },
+    {
+        "id": "95",
+        "label": "Injection"
+    },
+    {
+        "id": "96",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "97",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "98",
+        "label": "PHP File Include"
+    },
+    {
+        "id": "99",
+        "label": "Resource Injection"
+    },
+    {
+        "id": "102",
+        "label": "Struts: Duplicate Validation Forms"
+    },
+    {
+        "id": "103",
+        "label": "Struts: Erroneous validate() Method"
+    },
+    {
+        "id": "104",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "105",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "106",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "107",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "108",
+        "label": "Struts: Unvalidated Action Form"
+    },
+    {
+        "id": "109",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "110",
+        "label": "Struts: Validator Without Form Field"
+    },
+    {
+        "id": "111",
+        "label": "Unsafe JNI"
+    },
+    {
+        "id": "112",
+        "label": "Missing XML Validation"
+    },
+    {
+        "id": "113",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "114",
+        "label": "Process Control"
+    },
+    {
+        "id": "115",
+        "label": "Misinterpretation Error"
+    },
+    {
+        "id": "116",
+        "label": "Injection"
+    },
+    {
+        "id": "117",
+        "label": "Log Forging"
+    },
+    {
+        "id": "118",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "119",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "120",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "121",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "122",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "123",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "124",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "125",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "126",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "127",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "128",
+        "label": "Wrap-around error"
+    },
+    {
+        "id": "129",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "130",
+        "label": "Length Parameter Inconsistency"
+    },
+    {
+        "id": "131",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "134",
+        "label": "Format string vulnerability"
+    },
+    {
+        "id": "135",
+        "label": "Improper string length checking"
+    },
+    {
+        "id": "138",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "140",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "141",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "142",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "143",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "144",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "145",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "146",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "147",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "148",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "149",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "150",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "151",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "152",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "153",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "154",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "155",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "156",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "157",
+        "label": "Grouping Element / Paired Delimiter"
+    },
+    {
+        "id": "158",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "159",
+        "label": "Common Special Element Manipulations"
+    },
+    {
+        "id": "160",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "161",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "162",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "163",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "164",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "165",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "166",
+        "label": "Missing Special Element"
+    },
+    {
+        "id": "167",
+        "label": "Extra Special Element"
+    },
+    {
+        "id": "168",
+        "label": "Inconsistent Special Elements"
+    },
+    {
+        "id": "170",
+        "label": "Improper Null Termination"
+    },
+    {
+        "id": "172",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "173",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "174",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "175",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "176",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "177",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "178",
+        "label": "Case Sensitivity (lowercase, uppercase, mixed case)"
+    },
+    {
+        "id": "179",
+        "label": "Early Validation Errors"
+    },
+    {
+        "id": "180",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "181",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "182",
+        "label": "Collapse of Data into Unsafe Value"
+    },
+    {
+        "id": "183",
+        "label": "Permissive Whitelist"
+    },
+    {
+        "id": "184",
+        "label": "Incomplete Blacklist"
+    },
+    {
+        "id": "185",
+        "label": "Regular Expression Error"
+    },
+    {
+        "id": "186",
+        "label": "Overly Restrictive Regular Expression"
+    },
+    {
+        "id": "187",
+        "label": "Partial Comparison"
+    },
+    {
+        "id": "188",
+        "label": "Reliance on data layout"
+    },
+    {
+        "id": "190",
+        "label": "Integer overflow (wrap or wraparound)"
+    },
+    {
+        "id": "191",
+        "label": "Integer underflow (wrap or wraparound)"
+    },
+    {
+        "id": "192",
+        "label": "Integer coercion error"
+    },
+    {
+        "id": "193",
+        "label": "Off-by-one Error"
+    },
+    {
+        "id": "194",
+        "label": "Sign extension error"
+    },
+    {
+        "id": "195",
+        "label": "Signed to unsigned conversion error"
+    },
+    {
+        "id": "196",
+        "label": "Unsigned to signed conversion error"
+    },
+    {
+        "id": "197",
+        "label": "Numeric truncation error"
+    },
+    {
+        "id": "198",
+        "label": "Numeric Byte Ordering Error"
+    },
+    {
+        "id": "200",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "201",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "202",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "203",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "204",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "205",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "206",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "207",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "208",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "209",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "210",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "211",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "212",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "213",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "214",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "215",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "219",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "220",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "221",
+        "label": "Information loss or omission"
+    },
+    {
+        "id": "222",
+        "label": "Truncation of Security-relevant Information"
+    },
+    {
+        "id": "223",
+        "label": "Omission of Security-relevant Information"
+    },
+    {
+        "id": "224",
+        "label": "Obscured Security-relevant Information by Alternate Name"
+    },
+    {
+        "id": "226",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "228",
+        "label": "Structure and Validity Problems"
+    },
+    {
+        "id": "229",
+        "label": "Other"
+    },
+    {
+        "id": "230",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "231",
+        "label": "Extra Value Error"
+    },
+    {
+        "id": "232",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "233",
+        "label": "Parameter Problems"
+    },
+    {
+        "id": "234",
+        "label": "Missing Parameter Error"
+    },
+    {
+        "id": "235",
+        "label": "Extra Parameter Error"
+    },
+    {
+        "id": "236",
+        "label": "Undefined Parameter Error"
+    },
+    {
+        "id": "237",
+        "label": "Element Problems"
+    },
+    {
+        "id": "238",
+        "label": "Missing Element Error"
+    },
+    {
+        "id": "239",
+        "label": "Incomplete Element"
+    },
+    {
+        "id": "240",
+        "label": "Inconsistent Elements"
+    },
+    {
+        "id": "241",
+        "label": "Wrong Data Type"
+    },
+    {
+        "id": "242",
+        "label": "Dangerous Functions"
+    },
+    {
+        "id": "243",
+        "label": "Directory Restriction"
+    },
+    {
+        "id": "244",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "245",
+        "label": "J2EE Bad Practices: getConnection()"
+    },
+    {
+        "id": "246",
+        "label": "J2EE Bad Practices: Sockets"
+    },
+    {
+        "id": "248",
+        "label": "Often Misused: Exception Handling"
+    },
+    {
+        "id": "250",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "252",
+        "label": "Unchecked Return Value"
+    },
+    {
+        "id": "253",
+        "label": "Misinterpreted function return value"
+    },
+    {
+        "id": "256",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "257",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "258",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "259",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "260",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "261",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "262",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "263",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "266",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "267",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "268",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "269",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "270",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "271",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "272",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "273",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "274",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "276",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "277",
+        "label": "Insecure inherited permissions"
+    },
+    {
+        "id": "278",
+        "label": "Insecure preserved inherited permissions"
+    },
+    {
+        "id": "279",
+        "label": "Insecure execution-assigned permissions"
+    },
+    {
+        "id": "280",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "281",
+        "label": "Permission preservation failure"
+    },
+    {
+        "id": "282",
+        "label": "Ownership errors"
+    },
+    {
+        "id": "283",
+        "label": "Unverified Ownership"
+    },
+    {
+        "id": "284",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "285",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "286",
+        "label": "User management errors"
+    },
+    {
+        "id": "287",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "288",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "289",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "290",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "291",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "293",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "294",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "295",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "296",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "297",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "298",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "299",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "300",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "301",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "302",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "303",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "304",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "305",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "306",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "307",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "308",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "309",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "311",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "312",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "313",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "314",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "315",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "316",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "317",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "318",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "319",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "321",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "322",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "323",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "324",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "325",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "326",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "327",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "328",
+        "label": "Reversible One-Way Hash"
+    },
+    {
+        "id": "329",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "330",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "331",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "332",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "333",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "334",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "335",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "336",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "337",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "338",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "339",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "340",
+        "label": "Predictability problems"
+    },
+    {
+        "id": "341",
+        "label": "Predictable from Observable State"
+    },
+    {
+        "id": "342",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "343",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "344",
+        "label": "Static Value in Unpredictable Context"
+    },
+    {
+        "id": "345",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "346",
+        "label": "Origin Validation Error"
+    },
+    {
+        "id": "347",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "348",
+        "label": "Use of Less Trusted Source"
+    },
+    {
+        "id": "349",
+        "label": "Untrusted Data Appended with Trusted Data"
+    },
+    {
+        "id": "350",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "351",
+        "label": "Insufficient Type Distinction"
+    },
+    {
+        "id": "352",
+        "label": "Cross-Site Request Forgery (CSRF)"
+    },
+    {
+        "id": "353",
+        "label": "Failure to add integrity check value"
+    },
+    {
+        "id": "354",
+        "label": "Req SR 3.1"
+    },
+    {
+        "id": "356",
+        "label": "Product UI does not warn user of unsafe actions"
+    },
+    {
+        "id": "357",
+        "label": "Insufficient UI warning of dangerous operations"
+    },
+    {
+        "id": "358",
+        "label": "Improperly Implemented Security Check for Standard"
+    },
+    {
+        "id": "359",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "360",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "362",
+        "label": "Race Conditions"
+    },
+    {
+        "id": "363",
+        "label": "Race condition enabling link following"
+    },
+    {
+        "id": "364",
+        "label": "Signal handler race condition"
+    },
+    {
+        "id": "366",
+        "label": "Race condition within a thread"
+    },
+    {
+        "id": "367",
+        "label": "Time-of-check Time-of-use race condition"
+    },
+    {
+        "id": "368",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "369",
+        "label": "Denial of Service:MAPPING FIT:CWE More Specific"
+    },
+    {
+        "id": "370",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "372",
+        "label": "Incomplete Internal State Distinction"
+    },
+    {
+        "id": "374",
+        "label": "Passing mutable objects to an untrusted method"
+    },
+    {
+        "id": "375",
+        "label": "Mutable object returned"
+    },
+    {
+        "id": "377",
+        "label": "Insecure Temporary File"
+    },
+    {
+        "id": "378",
+        "label": "Improper temp file opening"
+    },
+    {
+        "id": "379",
+        "label": "Guessed or visible temporary file"
+    },
+    {
+        "id": "382",
+        "label": "J2EE Bad Practices: System.exit()"
+    },
+    {
+        "id": "383",
+        "label": "J2EE Bad Practices: Threads"
+    },
+    {
+        "id": "384",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "385",
+        "label": "Timing"
+    },
+    {
+        "id": "386",
+        "label": "Symbolic name not mapping to correct object"
+    },
+    {
+        "id": "390",
+        "label": "Improper error handling"
+    },
+    {
+        "id": "391",
+        "label": "Unchecked Return Value"
+    },
+    {
+        "id": "392",
+        "label": "Missing Error Status Code"
+    },
+    {
+        "id": "393",
+        "label": "Wrong Status Code"
+    },
+    {
+        "id": "394",
+        "label": "Unexpected Status Code or Return Value"
+    },
+    {
+        "id": "395",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "396",
+        "label": "Overly-Broad Catch Block"
+    },
+    {
+        "id": "397",
+        "label": "Overly-Broad Throws Declaration"
+    },
+    {
+        "id": "400",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "401",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "402",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "403",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "404",
+        "label": "Improper resource shutdown or release"
+    },
+    {
+        "id": "405",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "406",
+        "label": "Network Amplification"
+    },
+    {
+        "id": "407",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "408",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "409",
+        "label": "Data Amplification"
+    },
+    {
+        "id": "410",
+        "label": "Insufficient Resource Pool"
+    },
+    {
+        "id": "412",
+        "label": "Unrestricted Critical Resource Lock"
+    },
+    {
+        "id": "413",
+        "label": "Insufficient Resource Locking"
+    },
+    {
+        "id": "414",
+        "label": "Missing Lock Check"
+    },
+    {
+        "id": "415",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "416",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "419",
+        "label": "Unprotected Primary Channel"
+    },
+    {
+        "id": "420",
+        "label": "Unprotected Alternate Channel"
+    },
+    {
+        "id": "421",
+        "label": "Alternate Channel Race Condition"
+    },
+    {
+        "id": "422",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "424",
+        "label": "Alternate Path Errors"
+    },
+    {
+        "id": "425",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "426",
+        "label": "Untrusted Search Path"
+    },
+    {
+        "id": "427",
+        "label": "Uncontrolled Search Path Element"
+    },
+    {
+        "id": "428",
+        "label": "Unquoted Search Path or Element"
+    },
+    {
+        "id": "430",
+        "label": "Improper Handler Deployment"
+    },
+    {
+        "id": "431",
+        "label": "Missing Handler"
+    },
+    {
+        "id": "432",
+        "label": "Mask signals handled by noninterruptible signal handlers"
+    },
+    {
+        "id": "433",
+        "label": "Unparsed Raw Web Content Delivery"
+    },
+    {
+        "id": "434",
+        "label": "Unrestricted File Upload"
+    },
+    {
+        "id": "435",
+        "label": "Interaction Errors"
+    },
+    {
+        "id": "436",
+        "label": "Multiple Interpretation Error (MIE)"
+    },
+    {
+        "id": "437",
+        "label": "Extra Unhandled Features"
+    },
+    {
+        "id": "439",
+        "label": "CHANGE Behavioral Change"
+    },
+    {
+        "id": "440",
+        "label": "Expected behavior violation"
+    },
+    {
+        "id": "441",
+        "label": "Unintended proxy/intermediary"
+    },
+    {
+        "id": "444",
+        "label": "HTTP Request Smuggling"
+    },
+    {
+        "id": "446",
+        "label": "User interface inconsistency"
+    },
+    {
+        "id": "447",
+        "label": "Unimplemented or unsupported feature in UI"
+    },
+    {
+        "id": "448",
+        "label": "Obsolete feature in UI"
+    },
+    {
+        "id": "449",
+        "label": "The UI performs the wrong action"
+    },
+    {
+        "id": "450",
+        "label": "Multiple Interpretations of UI Input"
+    },
+    {
+        "id": "451",
+        "label": "UI Misrepresentation of Critical Information"
+    },
+    {
+        "id": "453",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "454",
+        "label": "External initialization of trusted variables or values"
+    },
+    {
+        "id": "455",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "456",
+        "label": "Missing Initialization"
+    },
+    {
+        "id": "457",
+        "label": "Uninitialized variable"
+    },
+    {
+        "id": "459",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "460",
+        "label": "Improper cleanup on thrown exception"
+    },
+    {
+        "id": "462",
+        "label": "Duplicate key in associative list (alist)"
+    },
+    {
+        "id": "463",
+        "label": "Deletion of data-structure sentinel"
+    },
+    {
+        "id": "464",
+        "label": "Addition of data-structure sentinel"
+    },
+    {
+        "id": "466",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "467",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "468",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "469",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "470",
+        "label": "Unsafe Reflection"
+    },
+    {
+        "id": "471",
+        "label": "Modification of Assumed-Immutable Data"
+    },
+    {
+        "id": "472",
+        "label": "Web Parameter Tampering"
+    },
+    {
+        "id": "473",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "474",
+        "label": "Inconsistent Implementations"
+    },
+    {
+        "id": "475",
+        "label": "Undefined Behavior"
+    },
+    {
+        "id": "476",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "477",
+        "label": "Obsolete"
+    },
+    {
+        "id": "478",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "479",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "480",
+        "label": "Using the wrong operator"
+    },
+    {
+        "id": "481",
+        "label": "Assigning instead of comparing"
+    },
+    {
+        "id": "482",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "483",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "484",
+        "label": "Omitted break statement"
+    },
+    {
+        "id": "486",
+        "label": "Comparing Classes by Name"
+    },
+    {
+        "id": "487",
+        "label": "Relying on package-level scope"
+    },
+    {
+        "id": "488",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "489",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "491",
+        "label": "Mobile Code: Object Hijack"
+    },
+    {
+        "id": "492",
+        "label": "Mobile Code: Use of Inner Class"
+    },
+    {
+        "id": "493",
+        "label": "Mobile Code: Non-Final Public Field"
+    },
+    {
+        "id": "494",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "495",
+        "label": "Private Array-Typed Field Returned From A Public Method"
+    },
+    {
+        "id": "496",
+        "label": "Public Data Assigned to Private Array-Typed Field"
+    },
+    {
+        "id": "497",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "498",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "499",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "500",
+        "label": "Overflow of static internal buffer"
+    },
+    {
+        "id": "501",
+        "label": "Trust Boundary Violation"
+    },
+    {
+        "id": "502",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "506",
+        "label": "Malicious"
+    },
+    {
+        "id": "507",
+        "label": "Trojan Horse"
+    },
+    {
+        "id": "508",
+        "label": "Non-Replicating"
+    },
+    {
+        "id": "509",
+        "label": "Replicating (virus)"
+    },
+    {
+        "id": "510",
+        "label": "Trapdoor"
+    },
+    {
+        "id": "511",
+        "label": "Logic/Time Bomb"
+    },
+    {
+        "id": "512",
+        "label": "Other"
+    },
+    {
+        "id": "514",
+        "label": "Covert Channel"
+    },
+    {
+        "id": "515",
+        "label": "Storage"
+    },
+    {
+        "id": "520",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "521",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "522",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "523",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "524",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "525",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "526",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "527",
+        "label": "Other"
+    },
+    {
+        "id": "528",
+        "label": "Ensure that sensitive data is not written out to disk"
+    },
+    {
+        "id": "529",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "530",
+        "label": "Other"
+    },
+    {
+        "id": "531",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "532",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "535",
+        "label": "Other"
+    },
+    {
+        "id": "536",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "537",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "538",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "539",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "540",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "541",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "543",
+        "label": "Prevent multiple instantiations of singleton objects"
+    },
+    {
+        "id": "544",
+        "label": "Adopt and implement a consistent and comprehensive error-handling policy"
+    },
+    {
+        "id": "546",
+        "label": "Other"
+    },
+    {
+        "id": "547",
+        "label": "Use meaningful symbolic constants to represent literal values in program logic"
+    },
+    {
+        "id": "548",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "549",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "550",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "551",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "552",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "553",
+        "label": "Other"
+    },
+    {
+        "id": "554",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "555",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "556",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "558",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "560",
+        "label": "Other"
+    },
+    {
+        "id": "561",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "562",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "563",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "564",
+        "label": "Injection"
+    },
+    {
+        "id": "565",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "566",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "567",
+        "label": "Ensure visibility when accessing shared primitive variables"
+    },
+    {
+        "id": "568",
+        "label": "Do not use finalizers"
+    },
+    {
+        "id": "570",
+        "label": "Compile cleanly at high warning levels"
+    },
+    {
+        "id": "571",
+        "label": "Compile cleanly at high warning levels"
+    },
+    {
+        "id": "572",
+        "label": "Do not invoke Thread.run()"
+    },
+    {
+        "id": "573",
+        "label": "Follow the general contract when implementing the compareTo() method"
+    },
+    {
+        "id": "574",
+        "label": "Use of an improper API"
+    },
+    {
+        "id": "575",
+        "label": "Use of an improper API"
+    },
+    {
+        "id": "576",
+        "label": "Use of an improper API"
+    },
+    {
+        "id": "577",
+        "label": "Use of an improper API"
+    },
+    {
+        "id": "578",
+        "label": "Use of an improper API"
+    },
+    {
+        "id": "579",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "580",
+        "label": "Unexpected access points"
+    },
+    {
+        "id": "581",
+        "label": "Classes that define an equals() method must also define a hashCode() method"
+    },
+    {
+        "id": "582",
+        "label": "Do not use public static nonfinal variables"
+    },
+    {
+        "id": "583",
+        "label": "Do not use finalizers"
+    },
+    {
+        "id": "584",
+        "label": "Do not complete abruptly from a finally block"
+    },
+    {
+        "id": "585",
+        "label": "Multiple locks/unlocks"
+    },
+    {
+        "id": "586",
+        "label": "Do not use finalizers"
+    },
+    {
+        "id": "587",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "588",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "589",
+        "label": "Do not use deprecated or obsolete classes or methods"
+    },
+    {
+        "id": "590",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "591",
+        "label": "Insecure Storage:MAPPING FIT:CWE More Specific"
+    },
+    {
+        "id": "593",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "594",
+        "label": "Glitch in computation"
+    },
+    {
+        "id": "595",
+        "label": "Use the two-argument Arrays.equals() method to compare the contents of arrays"
+    },
+    {
+        "id": "597",
+        "label": "Do not use the equality operators when comparing values of boxed primitives"
+    },
+    {
+        "id": "598",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "599",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "600",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "601",
+        "label": "URl Redirector Abuse"
+    },
+    {
+        "id": "602",
+        "label": "Unvalidated Input:MAPPING FIT:CWE More Specific"
+    },
+    {
+        "id": "603",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "605",
+        "label": "Multiple binds to the same port"
+    },
+    {
+        "id": "606",
+        "label": "Tainted input to variable"
+    },
+    {
+        "id": "607",
+        "label": "Exposed Data"
+    },
+    {
+        "id": "608",
+        "label": "Unexpected access points"
+    },
+    {
+        "id": "609",
+        "label": "Do not use incorrect forms of the double-checked locking idiom"
+    },
+    {
+        "id": "610",
+        "label": "Other"
+    },
+    {
+        "id": "611",
+        "label": "XXE (XML External Entity)"
+    },
+    {
+        "id": "612",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "613",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "614",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "615",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "616",
+        "label": "Incomplete Identification of Uploaded File Variables (PHP)"
+    },
+    {
+        "id": "617",
+        "label": "Never use assertions to validate method arguments"
+    },
+    {
+        "id": "618",
+        "label": "Other"
+    },
+    {
+        "id": "619",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "620",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "621",
+        "label": "Tainted input to command"
+    },
+    {
+        "id": "622",
+        "label": "Tainted input to environment"
+    },
+    {
+        "id": "623",
+        "label": "Other"
+    },
+    {
+        "id": "624",
+        "label": "Tainted input to command"
+    },
+    {
+        "id": "625",
+        "label": "Sanitize untrusted data passed to a regex"
+    },
+    {
+        "id": "626",
+        "label": "Other"
+    },
+    {
+        "id": "627",
+        "label": "Other"
+    },
+    {
+        "id": "628",
+        "label": "Maintain the contract between the writer and caller of variadic functions"
+    },
+    {
+        "id": "636",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "637",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "638",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "639",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "640",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "641",
+        "label": "Tainted input to command"
+    },
+    {
+        "id": "642",
+        "label": "Exposed Data"
+    },
+    {
+        "id": "643",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "644",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "645",
+        "label": "Other"
+    },
+    {
+        "id": "646",
+        "label": "Other"
+    },
+    {
+        "id": "647",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "648",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "649",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "650",
+        "label": "Other"
+    },
+    {
+        "id": "651",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "652",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "653",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "654",
+        "label": "Req SD-3"
+    },
+    {
+        "id": "655",
+        "label": "Req 4.3.3.6"
+    },
+    {
+        "id": "656",
+        "label": "Other"
+    },
+    {
+        "id": "657",
+        "label": "Req SD-3"
+    },
+    {
+        "id": "662",
+        "label": "Mask signals handled by noninterruptible signal handlers"
+    },
+    {
+        "id": "663",
+        "label": "Other"
+    },
+    {
+        "id": "664",
+        "label": "Do not alternately input and output from a stream without an intervening flush or positioning call:MAPPING FIT:CWE More Abstract"
+    },
+    {
+        "id": "665",
+        "label": "Incorrect initialization"
+    },
+    {
+        "id": "666",
+        "label": "Do not access a closed file:MAPPING FIT:CWE More Abstract"
+    },
+    {
+        "id": "667",
+        "label": "Do not destroy a mutex while it is locked:MAPPING FIT:CWE More Abstract"
+    },
+    {
+        "id": "668",
+        "label": "Other"
+    },
+    {
+        "id": "669",
+        "label": "Other"
+    },
+    {
+        "id": "670",
+        "label": "Other"
+    },
+    {
+        "id": "671",
+        "label": "Other"
+    },
+    {
+        "id": "672",
+        "label": "Faulty Resource Use"
+    },
+    {
+        "id": "673",
+        "label": "Other"
+    },
+    {
+        "id": "674",
+        "label": "Denial of Service:MAPPING FIT:CWE More Specific"
+    },
+    {
+        "id": "675",
+        "label": "Other"
+    },
+    {
+        "id": "676",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "680",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "681",
+        "label": "Ensure that floating point conversions are within range of the new type:MAPPING FIT:CWE More Abstract"
+    },
+    {
+        "id": "682",
+        "label": "Prevent or detect domain and range errors in math functions:MAPPING FIT:CWE More Abstract"
+    },
+    {
+        "id": "683",
+        "label": "Other"
+    },
+    {
+        "id": "684",
+        "label": "Do not replace secure functions with less secure functions"
+    },
+    {
+        "id": "685",
+        "label": "Glitch in computation"
+    },
+    {
+        "id": "686",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "687",
+        "label": "Do not perform zero length allocations"
+    },
+    {
+        "id": "688",
+        "label": "Other"
+    },
+    {
+        "id": "689",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "690",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "691",
+        "label": "Insufficient Process Validation"
+    },
+    {
+        "id": "692",
+        "label": "XSS (Cross-Site Scripting)"
+    },
+    {
+        "id": "693",
+        "label": "Other"
+    },
+    {
+        "id": "694",
+        "label": "Other"
+    },
+    {
+        "id": "695",
+        "label": "Other"
+    },
+    {
+        "id": "696",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "697",
+        "label": "Other"
+    },
+    {
+        "id": "698",
+        "label": "Other"
+    },
+    {
+        "id": "703",
+        "label": "Do not throw undeclared checked exceptions"
+    },
+    {
+        "id": "704",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "705",
+        "label": "All exit handlers must return normally:MAPPING FIT:CWE More Abstract"
+    },
+    {
+        "id": "706",
+        "label": "Other"
+    },
+    {
+        "id": "707",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "708",
+        "label": "Other"
+    },
+    {
+        "id": "710",
+        "label": "Other"
+    },
+    {
+        "id": "732",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "733",
+        "label": "Other"
+    },
+    {
+        "id": "749",
+        "label": "Other"
+    },
+    {
+        "id": "754",
+        "label": "Do not suppress or ignore exceptions:MAPPING FIT:CWE More Abstract"
+    },
+    {
+        "id": "755",
+        "label": "Other"
+    },
+    {
+        "id": "756",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "757",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "758",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "759",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "760",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "761",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "762",
+        "label": "Properly pair allocation and deallocation functions:MAPPING FIT:Exact"
+    },
+    {
+        "id": "763",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "764",
+        "label": "Multiple locks/unlocks"
+    },
+    {
+        "id": "765",
+        "label": "Multiple locks/unlocks"
+    },
+    {
+        "id": "766",
+        "label": "Failure to protect stored data from modification"
+    },
+    {
+        "id": "767",
+        "label": "Failure to protect stored data from modification"
+    },
+    {
+        "id": "768",
+        "label": "Failure to protect stored data from modification"
+    },
+    {
+        "id": "770",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "771",
+        "label": "Close files when they are no longer needed:MAPPING FIT:CWE More Abstract"
+    },
+    {
+        "id": "772",
+        "label": "Close files when they are no longer needed:MAPPING FIT:CWE More Abstract"
+    },
+    {
+        "id": "773",
+        "label": "Close files when they are no longer needed:MAPPING FIT:CWE More Abstract"
+    },
+    {
+        "id": "774",
+        "label": "Unrestricted Consumption"
+    },
+    {
+        "id": "775",
+        "label": "Close files when they are no longer needed:MAPPING FIT:CWE More Abstract"
+    },
+    {
+        "id": "776",
+        "label": "XXE (XML External Entity)"
+    },
+    {
+        "id": "777",
+        "label": "Other"
+    },
+    {
+        "id": "778",
+        "label": "Other"
+    },
+    {
+        "id": "779",
+        "label": "Req SR 7.2"
+    },
+    {
+        "id": "780",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "781",
+        "label": "Other"
+    },
+    {
+        "id": "782",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "783",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "784",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "785",
+        "label": "Often Misused: File System"
+    },
+    {
+        "id": "786",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "787",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "788",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "789",
+        "label": "SOAP Array Abuse"
+    },
+    {
+        "id": "790",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "791",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "792",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "793",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "794",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "795",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "796",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "797",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "798",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "799",
+        "label": "Insufficient Anti-Automation"
+    },
+    {
+        "id": "804",
+        "label": "Insufficient Anti-Automation"
+    },
+    {
+        "id": "805",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "806",
+        "label": "Other"
+    },
+    {
+        "id": "807",
+        "label": "Do not base security checks on untrusted sources"
+    },
+    {
+        "id": "820",
+        "label": "Synchronize access to static fields that can be modified by untrusted code"
+    },
+    {
+        "id": "821",
+        "label": "Other"
+    },
+    {
+        "id": "822",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "823",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "824",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "825",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "826",
+        "label": "Other"
+    },
+    {
+        "id": "827",
+        "label": "Other"
+    },
+    {
+        "id": "828",
+        "label": "Do not access or modify shared objects in signal handlers"
+    },
+    {
+        "id": "829",
+        "label": "Other"
+    },
+    {
+        "id": "830",
+        "label": "Other"
+    },
+    {
+        "id": "831",
+        "label": "Other"
+    },
+    {
+        "id": "832",
+        "label": "Other"
+    },
+    {
+        "id": "833",
+        "label": "Ensure actively held locks are released on exceptional conditions"
+    },
+    {
+        "id": "834",
+        "label": "Other"
+    },
+    {
+        "id": "835",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "836",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "837",
+        "label": "Other"
+    },
+    {
+        "id": "838",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "839",
+        "label": "Other"
+    },
+    {
+        "id": "841",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "842",
+        "label": "Other"
+    },
+    {
+        "id": "843",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "862",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "863",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "908",
+        "label": "Do not read uninitialized memory:MAPPING FIT:CWE More Abstract"
+    },
+    {
+        "id": "909",
+        "label": "Other"
+    },
+    {
+        "id": "910",
+        "label": "Do not access a closed file:MAPPING FIT:Exact"
+    },
+    {
+        "id": "911",
+        "label": "Other"
+    },
+    {
+        "id": "912",
+        "label": "Other"
+    },
+    {
+        "id": "913",
+        "label": "Other"
+    },
+    {
+        "id": "914",
+        "label": "Other"
+    },
+    {
+        "id": "915",
+        "label": "Other"
+    },
+    {
+        "id": "916",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "917",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "918",
+        "label": "SSRF"
+    },
+    {
+        "id": "920",
+        "label": "Req SR 6.2"
+    },
+    {
+        "id": "921",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "922",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "923",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "924",
+        "label": "Other"
+    },
+    {
+        "id": "925",
+        "label": "Other"
+    },
+    {
+        "id": "926",
+        "label": "Other"
+    },
+    {
+        "id": "927",
+        "label": "Other"
+    },
+    {
+        "id": "939",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "940",
+        "label": "Other"
+    },
+    {
+        "id": "941",
+        "label": "Other"
+    },
+    {
+        "id": "942",
+        "label": "Other"
+    },
+    {
+        "id": "943",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "1004",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "1007",
+        "label": "Other"
+    },
+    {
+        "id": "1021",
+        "label": "Other"
+    },
+    {
+        "id": "1022",
+        "label": "Other"
+    },
+    {
+        "id": "1023",
+        "label": "Other"
+    },
+    {
+        "id": "1024",
+        "label": "Other"
+    },
+    {
+        "id": "1025",
+        "label": "Other"
+    },
+    {
+        "id": "1037",
+        "label": "Other"
+    },
+    {
+        "id": "1038",
+        "label": "Other"
+    },
+    {
+        "id": "1039",
+        "label": "Other"
+    },
+    {
+        "id": "1041",
+        "label": "Other"
+    },
+    {
+        "id": "1042",
+        "label": "Other"
+    },
+    {
+        "id": "1043",
+        "label": "Other"
+    },
+    {
+        "id": "1044",
+        "label": "Other"
+    },
+    {
+        "id": "1045",
+        "label": "Other"
+    },
+    {
+        "id": "1046",
+        "label": "Other"
+    },
+    {
+        "id": "1047",
+        "label": "Other"
+    },
+    {
+        "id": "1048",
+        "label": "Other"
+    },
+    {
+        "id": "1049",
+        "label": "Other"
+    },
+    {
+        "id": "1050",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "1051",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "1052",
+        "label": "Other"
+    },
+    {
+        "id": "1053",
+        "label": "Other"
+    },
+    {
+        "id": "1054",
+        "label": "Other"
+    },
+    {
+        "id": "1055",
+        "label": "Other"
+    },
+    {
+        "id": "1056",
+        "label": "Other"
+    },
+    {
+        "id": "1057",
+        "label": "Other"
+    },
+    {
+        "id": "1058",
+        "label": "Other"
+    },
+    {
+        "id": "1059",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "1060",
+        "label": "Other"
+    },
+    {
+        "id": "1061",
+        "label": "Other"
+    },
+    {
+        "id": "1062",
+        "label": "Other"
+    },
+    {
+        "id": "1063",
+        "label": "Other"
+    },
+    {
+        "id": "1064",
+        "label": "Other"
+    },
+    {
+        "id": "1065",
+        "label": "Other"
+    },
+    {
+        "id": "1066",
+        "label": "Other"
+    },
+    {
+        "id": "1067",
+        "label": "Other"
+    },
+    {
+        "id": "1068",
+        "label": "Other"
+    },
+    {
+        "id": "1069",
+        "label": "Other"
+    },
+    {
+        "id": "1070",
+        "label": "Other"
+    },
+    {
+        "id": "1071",
+        "label": "Other"
+    },
+    {
+        "id": "1072",
+        "label": "Other"
+    },
+    {
+        "id": "1073",
+        "label": "Other"
+    },
+    {
+        "id": "1074",
+        "label": "Other"
+    },
+    {
+        "id": "1075",
+        "label": "Other"
+    },
+    {
+        "id": "1076",
+        "label": "Other"
+    },
+    {
+        "id": "1077",
+        "label": "Other"
+    },
+    {
+        "id": "1078",
+        "label": "Other"
+    },
+    {
+        "id": "1079",
+        "label": "Other"
+    },
+    {
+        "id": "1080",
+        "label": "Other"
+    },
+    {
+        "id": "1082",
+        "label": "Other"
+    },
+    {
+        "id": "1083",
+        "label": "Other"
+    },
+    {
+        "id": "1084",
+        "label": "Other"
+    },
+    {
+        "id": "1085",
+        "label": "Other"
+    },
+    {
+        "id": "1086",
+        "label": "Other"
+    },
+    {
+        "id": "1087",
+        "label": "Other"
+    },
+    {
+        "id": "1088",
+        "label": "Other"
+    },
+    {
+        "id": "1089",
+        "label": "Other"
+    },
+    {
+        "id": "1090",
+        "label": "Other"
+    },
+    {
+        "id": "1091",
+        "label": "Other"
+    },
+    {
+        "id": "1092",
+        "label": "Other"
+    },
+    {
+        "id": "1093",
+        "label": "Other"
+    },
+    {
+        "id": "1094",
+        "label": "Other"
+    },
+    {
+        "id": "1095",
+        "label": "Other"
+    },
+    {
+        "id": "1096",
+        "label": "Other"
+    },
+    {
+        "id": "1097",
+        "label": "Other"
+    },
+    {
+        "id": "1098",
+        "label": "Buffer Overflow / Memory Safety"
+    },
+    {
+        "id": "1099",
+        "label": "Other"
+    },
+    {
+        "id": "1100",
+        "label": "Other"
+    },
+    {
+        "id": "1101",
+        "label": "Other"
+    },
+    {
+        "id": "1102",
+        "label": "Other"
+    },
+    {
+        "id": "1103",
+        "label": "Other"
+    },
+    {
+        "id": "1104",
+        "label": "Other"
+    },
+    {
+        "id": "1105",
+        "label": "Other"
+    },
+    {
+        "id": "1106",
+        "label": "Other"
+    },
+    {
+        "id": "1107",
+        "label": "Other"
+    },
+    {
+        "id": "1108",
+        "label": "Other"
+    },
+    {
+        "id": "1109",
+        "label": "Other"
+    },
+    {
+        "id": "1110",
+        "label": "Other"
+    },
+    {
+        "id": "1111",
+        "label": "Other"
+    },
+    {
+        "id": "1112",
+        "label": "Other"
+    },
+    {
+        "id": "1113",
+        "label": "Other"
+    },
+    {
+        "id": "1114",
+        "label": "Other"
+    },
+    {
+        "id": "1115",
+        "label": "Other"
+    },
+    {
+        "id": "1116",
+        "label": "Other"
+    },
+    {
+        "id": "1117",
+        "label": "Other"
+    },
+    {
+        "id": "1118",
+        "label": "Other"
+    },
+    {
+        "id": "1119",
+        "label": "Other"
+    },
+    {
+        "id": "1120",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "1121",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "1122",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "1123",
+        "label": "Other"
+    },
+    {
+        "id": "1124",
+        "label": "Other"
+    },
+    {
+        "id": "1125",
+        "label": "Other"
+    },
+    {
+        "id": "1126",
+        "label": "Other"
+    },
+    {
+        "id": "1127",
+        "label": "Other"
+    },
+    {
+        "id": "1164",
+        "label": "Other"
+    },
+    {
+        "id": "1173",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "1174",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "1176",
+        "label": "Other"
+    },
+    {
+        "id": "1177",
+        "label": "Other"
+    },
+    {
+        "id": "1188",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "1189",
+        "label": "Other"
+    },
+    {
+        "id": "1190",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1191",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1192",
+        "label": "Other"
+    },
+    {
+        "id": "1193",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1204",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "1209",
+        "label": "Other"
+    },
+    {
+        "id": "1220",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1221",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "1222",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "1223",
+        "label": "Other"
+    },
+    {
+        "id": "1224",
+        "label": "Other"
+    },
+    {
+        "id": "1229",
+        "label": "Other"
+    },
+    {
+        "id": "1230",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1231",
+        "label": "Other"
+    },
+    {
+        "id": "1232",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "1233",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "1234",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "1235",
+        "label": "Do not pass arguments to certain Java Collections Framework methods that are a different type than the collection parameter type"
+    },
+    {
+        "id": "1236",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "1239",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1240",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "1241",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "1242",
+        "label": "Req SD-4"
+    },
+    {
+        "id": "1243",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1244",
+        "label": "Other"
+    },
+    {
+        "id": "1245",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1246",
+        "label": "Req SD-4"
+    },
+    {
+        "id": "1247",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1248",
+        "label": "Other"
+    },
+    {
+        "id": "1249",
+        "label": "Other"
+    },
+    {
+        "id": "1250",
+        "label": "Other"
+    },
+    {
+        "id": "1251",
+        "label": "Other"
+    },
+    {
+        "id": "1252",
+        "label": "Other"
+    },
+    {
+        "id": "1253",
+        "label": "Other"
+    },
+    {
+        "id": "1254",
+        "label": "Other"
+    },
+    {
+        "id": "1255",
+        "label": "Other"
+    },
+    {
+        "id": "1256",
+        "label": "Other"
+    },
+    {
+        "id": "1257",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1258",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "1259",
+        "label": "Other"
+    },
+    {
+        "id": "1260",
+        "label": "Other"
+    },
+    {
+        "id": "1261",
+        "label": "Other"
+    },
+    {
+        "id": "1262",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1263",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1264",
+        "label": "Other"
+    },
+    {
+        "id": "1265",
+        "label": "Other"
+    },
+    {
+        "id": "1266",
+        "label": "Other"
+    },
+    {
+        "id": "1267",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1268",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1269",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "1270",
+        "label": "Other"
+    },
+    {
+        "id": "1271",
+        "label": "Other"
+    },
+    {
+        "id": "1272",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1273",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "1274",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1275",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "1276",
+        "label": "Other"
+    },
+    {
+        "id": "1277",
+        "label": "Other"
+    },
+    {
+        "id": "1278",
+        "label": "Other"
+    },
+    {
+        "id": "1279",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "1280",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1281",
+        "label": "Other"
+    },
+    {
+        "id": "1282",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "1283",
+        "label": "Other"
+    },
+    {
+        "id": "1284",
+        "label": "Other"
+    },
+    {
+        "id": "1285",
+        "label": "Other"
+    },
+    {
+        "id": "1286",
+        "label": "Other"
+    },
+    {
+        "id": "1287",
+        "label": "Other"
+    },
+    {
+        "id": "1288",
+        "label": "Other"
+    },
+    {
+        "id": "1289",
+        "label": "Other"
+    },
+    {
+        "id": "1290",
+        "label": "Other"
+    },
+    {
+        "id": "1291",
+        "label": "Other"
+    },
+    {
+        "id": "1292",
+        "label": "Other"
+    },
+    {
+        "id": "1293",
+        "label": "Other"
+    },
+    {
+        "id": "1294",
+        "label": "Other"
+    },
+    {
+        "id": "1295",
+        "label": "Other"
+    },
+    {
+        "id": "1296",
+        "label": "Other"
+    },
+    {
+        "id": "1297",
+        "label": "Other"
+    },
+    {
+        "id": "1298",
+        "label": "Other"
+    },
+    {
+        "id": "1299",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1300",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1301",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1302",
+        "label": "Other"
+    },
+    {
+        "id": "1303",
+        "label": "Other"
+    },
+    {
+        "id": "1304",
+        "label": "Configuration Issues"
+    },
+    {
+        "id": "1310",
+        "label": "Other"
+    },
+    {
+        "id": "1311",
+        "label": "Other"
+    },
+    {
+        "id": "1312",
+        "label": "Other"
+    },
+    {
+        "id": "1313",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1314",
+        "label": "Other"
+    },
+    {
+        "id": "1315",
+        "label": "Other"
+    },
+    {
+        "id": "1316",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1317",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "1318",
+        "label": "Broken Access Control"
+    },
+    {
+        "id": "1319",
+        "label": "Other"
+    },
+    {
+        "id": "1320",
+        "label": "Other"
+    },
+    {
+        "id": "1321",
+        "label": "Other"
+    },
+    {
+        "id": "1322",
+        "label": "Other"
+    },
+    {
+        "id": "1323",
+        "label": "Other"
+    },
+    {
+        "id": "1325",
+        "label": "Other"
+    },
+    {
+        "id": "1326",
+        "label": "Other"
+    },
+    {
+        "id": "1327",
+        "label": "Other"
+    },
+    {
+        "id": "1328",
+        "label": "Other"
+    },
+    {
+        "id": "1329",
+        "label": "Other"
+    },
+    {
+        "id": "1330",
+        "label": "Other"
+    },
+    {
+        "id": "1331",
+        "label": "Other"
+    },
+    {
+        "id": "1332",
+        "label": "Other"
+    },
+    {
+        "id": "1333",
+        "label": "Code Quality / Logic"
+    },
+    {
+        "id": "1334",
+        "label": "Other"
+    },
+    {
+        "id": "1335",
+        "label": "Other"
+    },
+    {
+        "id": "1336",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "1338",
+        "label": "Other"
+    },
+    {
+        "id": "1339",
+        "label": "Other"
+    },
+    {
+        "id": "1341",
+        "label": "Other"
+    },
+    {
+        "id": "1342",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1351",
+        "label": "Other"
+    },
+    {
+        "id": "1357",
+        "label": "Req SP.03.02 RE(1)"
+    },
+    {
+        "id": "1384",
+        "label": "Other"
+    },
+    {
+        "id": "1385",
+        "label": "Other"
+    },
+    {
+        "id": "1386",
+        "label": "Other"
+    },
+    {
+        "id": "1389",
+        "label": "Other"
+    },
+    {
+        "id": "1390",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "1391",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "1392",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "1393",
+        "label": "Broken Authentication"
+    },
+    {
+        "id": "1394",
+        "label": "Cryptographic Failures"
+    },
+    {
+        "id": "1395",
+        "label": "Req CR 2.4"
+    },
+    {
+        "id": "1419",
+        "label": "Other"
+    },
+    {
+        "id": "1420",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1421",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1422",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1423",
+        "label": "Sensitive Data Exposure"
+    },
+    {
+        "id": "1426",
+        "label": "Other"
+    },
+    {
+        "id": "1427",
+        "label": "Input Validation Issues"
+    },
+    {
+        "id": "1428",
+        "label": "Other"
+    },
+    {
+        "id": "1429",
+        "label": "Other"
+    },
+    {
+        "id": "1431",
+        "label": "Cryptographic Failures"
+    }
+]
